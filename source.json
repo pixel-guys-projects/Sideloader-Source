@@ -4,7 +4,6 @@
   "description": "Hylance builds focused, well-crafted apps for the devices you use every day. YT for TV is our first, and more are on the way.",
   "iconURL": "https://i.imgur.com/gmKLy2k.png",
   "website": "https://hylance.framer.ai",
-  "patreonURL": "",
   "tintColor": "#56b8e2",
   "featuredApps": [
     "com.ytfortv.hylance"
