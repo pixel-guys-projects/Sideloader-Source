@@ -13,7 +13,6 @@
     {
       "name": "YT for TV",
       "bundleIdentifier": "com.ytfortv.hylance",
-      "marketplaceID": "",
       "developerName": "Hylance Developer Group",
       "subtitle": "Watch YouTube as if you are on an actual TV.",
       "localizedDescription": "YT for TV\nWatch YouTube in its Leanback TV interface on your iPad. It's the same big-screen interface normally reserved for smart TVs, with an on-screen remote, swipe navigation, and a Liquid Glass UI built for iPadOS 26.\n\nFeatures-\nYouTube Leanback UI: loads youtube.com/tv with a Samsung Smart TV user agent to unlock the full big-screen interface.\nOn-screen remote: a floating glass button opens a remote with a D-pad, OK, Back, Play/Pause (the icon and label switch with playback), and Home.\nSwipe navigation: swipe to move around the interface. Swipe down during a video to go back.\nLiquid Glass UI: every control uses interactive glass, with red accents on the main actions.\nButton sounds: iPads have no Taptic Engine, so presses play a short click, a little different each time. iPhones use haptics. You can turn this off in Settings.\nLandscape only: portrait shows a reminder until you rotate the device.\nOffline screen: a friendly message appears when the connection drops, and the app reloads when it returns.\nSettings panel: reload, go home, auto-hide the remote during video playback, sound or haptic feedback, About App, and Export IPA.\nAbout panel: version, build number, copyright, and a shortcut to What's New.\nExport IPA: packages the app as a sideloadable .ipa from the Settings panel.",
