@@ -7,13 +7,13 @@
   "patreonURL": "",
   "tintColor": "#56b8e2",
   "featuredApps": [
-    "com.hylance.ytfortv"
+    "com.ytfortv.hylance"
   ],
   "headerURL": "https://i.imgur.com/XiMMtqI.png",
   "apps": [
     {
       "name": "YT for TV",
-      "bundleIdentifier": "com.hylance.ytfortv",
+      "bundleIdentifier": "com.ytfortv.hylance",
       "marketplaceID": "",
       "developerName": "Hylance Developer Group",
       "subtitle": "Watch YouTube as if you are on an actual TV.",
@@ -74,7 +74,7 @@
       "imageURL": "https://i.imgur.com/Y6vRjzU.png",
       "notify": true,
       "url": "https://www.reddit.com/r/sideloaded/s/LoD3ppPmM9",
-      "appID": "com.hylance.ytfortv"
+      "appID": "com.ytfortv.hylance"
     }
   ]
 }          {
@@ -117,7 +117,7 @@
       "imageURL": "https://i.imgur.com/Y6vRjzU.png",
       "notify": true,
       "url": "https://www.reddit.com/r/sideloaded/s/LoD3ppPmM9",
-      "appID": "com.hylance.ytfortv"
+      "appID": "com.ytfortv.hylance"
     }
   ]
 }
