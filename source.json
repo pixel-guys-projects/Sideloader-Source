@@ -42,7 +42,7 @@
           "localizedDescription": "Finally working: the last release had install errors, and the .ipa creation has been rebuilt.",
           "downloadURL": "https://github.com/pixel-guys-projects/YT-for-TV/releases/download/v2.0/Release-2.0.ipa",
           "size": 3620000,
-          "buildVersion": "",
+          "buildVersion": "2",
           "minOSVersion": "26.0"
         }
       ],
